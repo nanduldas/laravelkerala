@@ -28,5 +28,5 @@ We are a group of Laravel enthusiasts based in Kerala, India. Our community is o
 
 ## Contact Us
 
-- Website: [laravelkerala.com.com](https://laravelkerala.com)
-- Whatsapp: [Whatsapp](https://chat.whatsapp.com/I5MQT2yiwAv2FvMdripknD)
+- Website: [laravelkerala.com](https://laravelkerala.com)
+- Whatsapp: [Join](https://chat.whatsapp.com/I5MQT2yiwAv2FvMdripknD)
